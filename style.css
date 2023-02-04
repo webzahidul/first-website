@@ -1,0 +1,23 @@
+#name{
+    font-size:30px; font-weight:bold; color: darkcyan; background-color:black;
+}
+#biography{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    color:blueviolet; font-size:10px; font-family:Verdana, Geneva, Tahoma, sans-serif; background-color: bisque; font-weight: 500;
+}
+img{
+    width: 100%;
+}
+.paragraph{
+    width: 80%;
+    height: 80%;
+   font-size:10px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color:rgb(153, 142, 142); 
+   border: 2px dotted lightgray;
+   border-radius: 20px;
+   margin: 50px 30px;
+   padding: 40px;
+   
+}
