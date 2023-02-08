@@ -26,6 +26,12 @@ table{
     width: 100%;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
+#footer{
+    font-family: 'Frank'; 
+    font-size: 30px; 
+    text-align: center;
+    margin-top:40px;
+}
 td, th {
     border-top: 1px solid black;
     text-align: left;
